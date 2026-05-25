@@ -10,6 +10,7 @@ I had a dream to redefine what's possible.
  Exploring the intersection of:
 
 - Artificial Intelligence
+- DSA
 - Quantum Computing
 - System Design
 - Distributed Infrastructure
