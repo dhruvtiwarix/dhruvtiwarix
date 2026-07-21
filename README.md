@@ -77,7 +77,7 @@
   </a>
   </a>
  
-  <a href="https://www.linkedin.com/in/dhruv-tiwari-9ab4902bb" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruvtiwarx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-1C1C1E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
